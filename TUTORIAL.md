@@ -5,7 +5,7 @@ Este projeto é uma calculadora que processa expressões na notação pós-fixad
 
 ## Como Executar
 1. Clone o repositório:
-   git clone https://github.com/ramlin-ctrl/calculadora-posfixada.git
+   git clone https://github.com/ramlin-ctrl/CalculadoraPosFixada
 
 2. Compile e execute a aplicação:
    javac view/Main.java

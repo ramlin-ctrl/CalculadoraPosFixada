@@ -1,13 +1,10 @@
 # Calculadora Pós-Fixada - Projeto Estrutura de Dados
 
 ## Descrição
-Este projeto é uma calculadora que processa expressões na notação pós-fixada usando fila dinâmica e pilha.
+Este projeto é uma calculadora que processa expressões na notação pós-fixada usando fila dinâmica/pilha.
 
-## Como Executar
-1. Clone o repositório:
-   git clone https://github.com/ramlin-ctrl/CalculadoraPosFixada
 
-2. Compile e execute a aplicação:
+1. Compile e execute a aplicação:
    javac view/Main.java
    java view.Main
 

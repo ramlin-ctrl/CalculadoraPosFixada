@@ -8,6 +8,12 @@ Este projeto é uma calculadora que processa expressões na notação pós-fixad
    javac view/Main.java
    java view.Main
 
+
+
+
+## 📌 O que é Notação Pós-Fixada?
+
+A notação pós-fixada é uma forma de escrever expressões aritméticas onde os operadores vêm **após** os operandos.  
 ## Exemplos
 
 Entrada: 3 4 +
